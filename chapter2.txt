@@ -1,0 +1,1 @@
+This is even better chapter2.txt of master branch.
